@@ -30,9 +30,9 @@ function addWeatherToPage(data) {
         <h2><img src="https://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png" /> ${temp}°C <img src="https://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png" /></h2>
         
         <small>${weathertype}</small> <br>
-        <small>Feels Like ${feelslike}°C</small> <br>
-        <small>Wind Speed ${windspeed} km/h</small> <br>
-        <small>Humidity ${humidity}%</small> <br>
+        <small>Feels Like <strong> ${feelslike}°C </strong></small> <br>
+        <small>Wind Speed <strong> ${windspeed} km/h </strong></small> <br>
+        <small>Humidity <strong> ${humidity}% </strong></small> <br>
 
     `;
 
