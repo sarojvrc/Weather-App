@@ -44,8 +44,10 @@ function addWeatherToPage(data) {
         document.body.style.background = "linear-gradient(279deg, #d6dde2, #8a8e8e)"
     } else if(weathertype === "Rain"){
         document.body.style.background = "linear-gradient(279deg, #ef8787, #758ebd)"
+    } else if(weathertype === "Haze"){
+        document.body.style.background = "linear-gradient(279deg, rgb(106 201 222), rgb(114 115 117))"
     } else{
-        document.body.style.background = "linear-gradient(279deg, #bfbaba, #c9ccd2)"
+        document.body.style.background = "linear-gradient(279deg, #bfbaba, #c9ccd2);"
     }
 
     main.innerHTML = "";
