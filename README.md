@@ -6,7 +6,7 @@ This is a simple weather app. Where you have to enter your city or location name
 
 <h2>Landing Page<h2>
   
-  ![Landing Page](/images/weather-app-landing.png)
+  ![Landing Page](/images/landingpage1.png)
 <h2>Enter Your City<h2>
   
    ![Unlock Pro Page](/images/weather-app-1.png)
