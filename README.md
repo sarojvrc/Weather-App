@@ -9,12 +9,12 @@ This is a simple weather app. Where you have to enter your city or location name
   ![Landing Page](/images/weather-app-landing.png)
 <h2>Enter Your City<h2>
   
-   ![Unlock Pro Page](/images/weather-app-city-insert.png)
+   ![Unlock Pro Page](/images/weather-app-1.png)
   
   
-<h2>Result Page<h2>
+<h2>Different Color<h2>
   
-   ![Solution Page](/images/weather-app-show-result.png)  
+   ![Solution Page](/images/weather-app-2.png)  
   
 <h1>🌟 Live link</h1>
   
